@@ -303,6 +303,7 @@ border-radius: 30px;
 }
 .landing__header--bottom-howTo .bottom-howTo--play span.play-btn {
     margin-top: 10px;
+    margin-right: 6px;
 }
 .landing__header--bottom-howTo h2 {
   font-size: 22px;
@@ -585,7 +586,7 @@ body.over {
   .landing__content-grid .landing__content-dis p {
     width: 84%;
     text-align: justify;
-    font-size: 18px;
+    font-size: 20px;
   }
   .landing__content-grid .landing__content-video iframe {
     width: 100%;
@@ -854,7 +855,7 @@ section.landing{
 }
 .landing__content-grid .landing__content-dis p {
   width: 83%;
-  font-size: 15px;
+  font-size: 16px;
   text-align: justify;
   margin-bottom: 9px;
 }
